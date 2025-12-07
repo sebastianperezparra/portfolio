@@ -1,7 +1,6 @@
-  ![Credit Score](https://files.consumerfinance.gov/f/images/201702_cfpb_Oah_Blog6-credit_score.original.png)
-
-  
   # 🏦 Home Credit Default Risk Project
+    
+  ![Credit Score](https://files.consumerfinance.gov/f/images/201702_cfpb_Oah_Blog6-credit_score.original.png)
   
   ## 🔎 Business Problem & Objective
   Home Credit Group seeks to expand financial inclusion by offering loans to individuals who lack traditional credit histories. The challenge is that many applicants present **high uncertainty and financial risk**.  
@@ -47,6 +46,8 @@
   - Practical experience in **translating technical outputs into actionable business rules** for decision-makers.
   
   ---
+  
+  ![Credit](https://www.bankrate.com/brp/2024/11/06155208/The-elationship-between-credit-cards-and-buying-a-house.jpg?auto=webp&optimize=high&crop=16:9&width=912)
   
   ## 📂 Repository Structure
   [Fall Capstone project](https://github.com/sebastianperezparra/msba/tree/main/Fall%20Capstone)

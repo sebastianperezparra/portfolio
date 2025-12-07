@@ -1,6 +1,4 @@
-  # 🏦 Home Credit Default Risk Project
-
-![Credit Score](https://files.consumerfinance.gov/f/images/201702_cfpb_Oah_Blog6-credit_score.original.png)
+# 🏦 Home Credit Default Risk Project
 
 ## 🔍 Business Problem & Objective
 Home Credit Group seeks to expand financial inclusion by offering loans to individuals who lack traditional credit histories. The challenge is that many applicants present **high uncertainty and financial risk**.  

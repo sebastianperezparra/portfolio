@@ -15,7 +15,7 @@
   - Proposed a **cutoff threshold (0.49)** to reject the riskiest 5% of applicants, reducing default rates from 8% to ~6.9% and avoiding ~$16M in annual losses per 100k loans.
   
   ## 👤 My Contribution
-  I contributed by:
+  I contributed to the project by:
   - Implementing and tuning **Random Forests**, which became our strongest model.  
   - Experimenting with **neural networks** to capture nonlinear relationships.  
   - Building and refining **logistic regression baselines** for benchmarking and interpretability.  
@@ -28,7 +28,7 @@
   - **Operational clarity:** Provided manager-friendly outputs and personas (e.g., “John vs. Jane” case study) to illustrate model decisions.  
   - **Inclusion:** Enabled safer lending to underserved populations.
 
-    [![Improve Your Credit Score](https://www.propertypeoplegroup.com/wp-content/uploads/2023/06/credit-score-1024x683.jpg)](https://www.propertypeoplegroup.com/blog/how-to-improve-your-credit-score-to-buy-a-house/)
+    ![Improve Your Credit Score](https://www.propertypeoplegroup.com/wp-content/uploads/2023/06/credit-score-1024x683.jpg)
   
   ## ⚠️ Difficulties Encountered
   - Managing **imbalanced data** and ensuring fair performance across demographics.  

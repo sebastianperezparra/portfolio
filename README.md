@@ -28,7 +28,7 @@
   - **Operational clarity:** Provided manager-friendly outputs and personas (e.g., “John vs. Jane” case study) to illustrate model decisions.  
   - **Inclusion:** Enabled safer lending to underserved populations.
 
-    ![Improve Your Credit Score](https://www.propertypeoplegroup.com/wp-content/uploads/2023/06/credit-score-1024x683.jpg)
+    ![Improve Your Credit Score](https://assets.site-static.com/userFiles/1544/image/credit-score-to-buy-a-house.jpg)
   
   ## ⚠️ Difficulties Encountered
   - Managing **imbalanced data** and ensuring fair performance across demographics.  

@@ -2,12 +2,14 @@
 
 ## 🔎 Business Problem & Objective
 Home Credit Group seeks to expand financial inclusion by offering loans to individuals who lack traditional credit histories. The challenge is that many applicants present **high uncertainty and financial risk**.  
-**Objective:** Build a predictive model that estimates the probability of default, enabling smarter loan approvals while reducing losses.
+**Our Objective as Data Scientists:** Build a predictive model that estimates the probability of default, enabling smarter loan approvals while reducing losses.
 
 ## 💡 Group’s Solution
 Our team designed a machine learning pipeline that:
+
 - **Engineered features** from multiple relational tables (credit bureau, previous applications, demographics).  
-- Tested several models including **logistic regression (baseline and regularized), random forests, and neural networks**.  
+- Tested several models, including **logistic regression (baseline and regularized), random forests, and neural networks**.  
+- Conducted experiments using both **R and Python packages** to validate results across different environments and packages.  
 - Selected **Random Forests** as the best-performing model, balancing accuracy (AUC ≈ 0.734) and interpretability.  
 - Incorporated **external credit scores (EXT_SOURCE variables)** and employment/credit features as key drivers of default.  
 - Proposed a **cutoff threshold (0.49)** to reject the riskiest 5% of applicants, reducing default rates from 8% to ~6.9% and avoiding ~$16M in annual losses per 100k loans.
@@ -30,7 +32,8 @@ I contributed by:
 - Managing **imbalanced data** and ensuring fair performance across demographics.  
 - Handling **missing values** in external credit scores.  
 - Balancing **model complexity vs interpretability** for business stakeholders.  
-- Debugging schema collisions and ensuring consistent feature definitions.
+- Debugging schema collisions and ensuring consistent feature definitions.  
+- Integrating workflows across **R and Python** introduced challenges.
 
 ## 🎓 Key Learnings
 - The importance of **feature engineering** and external credit proxies in financial risk modeling.  
@@ -41,4 +44,4 @@ I contributed by:
 ---
 
 ## 📂 Repository Structure
-Personal portfolio
+[Fall Capstone project](https://github.com/sebastianperezparra/msba/tree/main/Fall%20Capstone)
